@@ -61,22 +61,22 @@ export const content = {
     title: "Web Developer",
     firstName: "FLORIAN",
     LastName: "WU",
-    btnText: "Hire Me",
+    btnText: "Engagé moi",
     image: Hero_person,
     hero_content: [
       {
         count: "2+",
-        text: "Years of Experinse in Web development",
+        text: "ans d'expérience en développement web",
       },
       {
         count: "10+",
-        text: "Projects Worked in my career",
+        text: "projets réalisés avec succès",
       },
     ],
   },
   skills: {
     title: "Skills",
-    subtitle: "MY TOP SKILLS",
+    subtitle: "MES COMPÉTENCES",
     skills_content: [
       {
         name: "Node js",
@@ -103,7 +103,7 @@ export const content = {
   },
   services: {
     title: "Services",
-    subtitle: "WHAT I OFFER",
+    subtitle: "QU'EST-CE QUE J'APPORTE",
     service_content: [
       {
         title: "Développement Web",
@@ -172,16 +172,16 @@ export const content = {
   //   ],
   // },
   Hireme: {
-    title: "Hire Me",
-    subtitle: "FOR YOUR PROJECTS",
+    title: "Engagé moi",
+    subtitle: "POUR VOS PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "Helping businesses to grow and increase revenue",
-    btnText: "Hire Me",
+    para: "Vous avez un projet en tête? Contactez-moi dès maintenant.",
+    btnText: " Engagé moi",
   },
   Contact: {
     title: "Contect Me",
-    subtitle: "GET IN TOUCH",
+    subtitle: "GARDER LE CONTACT",
     social_media: [
       {
         text: "wuflorian2000@gmail.com",
