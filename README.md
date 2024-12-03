@@ -2,6 +2,8 @@
 
 Bienvenue sur mon portfolio ! Ce site a pour objectif de me présenter en tant que développeur web et de montrer mes compétences et mon parcours aux recruteurs et aux clients potentiels. Vous y trouverez des informations sur mon profil ainsi que mes réalisations.
 
+Voici le lien vers mon portfolio : https://flaironne.github.io/Portfolio_2024/
+
 ## Table des matières
 
 - [Aperçu](#aperçu)
